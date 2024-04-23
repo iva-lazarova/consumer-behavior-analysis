@@ -5,9 +5,9 @@ The dataset contains information on customer demographics across all states in t
 
 Insights:
 Items and Seasonality:
-•	Blouse, jewelry and pants were the most sold items for the analyzed period
-•	Clothing is the most popular category across all states, followed by accessories; sales of outerwear items are significantly lower
-•	Slightly more purchases were recorded in spring and fall - seasonality does not significantly impact purchasing decisions in general, but could be a factor for purchasing specific items (to be analyzed further if required)
+   Blouse, jewelry and pants were the most sold items for the analyzed period
+   Clothing is the most popular category across all states, followed by accessories; sales of outerwear items are significantly lower
+   Slightly more purchases were recorded in spring and fall - seasonality does not significantly impact purchasing decisions in general, but could be a factor for purchasing specific items (to be analyzed further if required)
 Demographics:
 •	Montana, California and Idaho have the most customers and these states are amongst the top five in terms of total spending – 1st, 3rd and 4th respectively. Illinois comes 2nd after Montana 
 •	Men spend more than twice as much as women – 68% of all customers were male vs. 32% who were female
